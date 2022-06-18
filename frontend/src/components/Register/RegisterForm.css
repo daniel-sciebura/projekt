@@ -1,0 +1,15 @@
+.register{
+  display: flex;
+  justify-content: center;
+}
+
+.registerContainer {
+  display:flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 50%;
+}
+
+label.label-name {
+    color: #fff;
+}

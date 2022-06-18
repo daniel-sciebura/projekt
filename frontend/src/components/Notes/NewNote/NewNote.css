@@ -1,0 +1,15 @@
+button.newNote {
+    margin: 2px;
+    background-color: #33a50d;
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+button.newNote:hover {
+    background-color: #2c9609;
+};
+
